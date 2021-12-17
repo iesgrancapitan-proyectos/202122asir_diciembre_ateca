@@ -1,15 +1,14 @@
-## Proyecto Aula Ateca 
+# Proyecto Aula Ateca 
+## Proyecto final C.F.G.S Administración Sistemas Informáticos en Red
 
+### Introducción
 
-- [Módulo Proyecto Integrado del IES Gran Capitán](#módulo-proyecto-integrado-del-ies-gran-capitán)
-  - [Instrucciones para el desarrollo del Módulo Proyecto Integrado](#instrucciones-para-el-desarrollo-del-módulo-proyecto-integrado)
-    - [Obligaciones por parte del alumnado](#obligaciones-por-parte-del-alumnado)
-    - [Información que debe aparecer en este README](#información-que-debe-aparecer-en-este-readme)
-    - [Asignación/Elección de temas para el Proyecto y Convocatorias](#asignaciónelección-de-temas-para-el-proyecto-y-convocatorias)
-    - [Descripción del Desarrollo del Proyecto](#descripción-del-desarrollo-del-proyecto)
-  - [Curriculum  Didáctico del Módulo Proyecto Integrado](#curriculum--didáctico-del-módulo-proyecto-integrado)
-    - [Objetivos del Módulo](#objetivos-del-módulo)
-    - [Evaluación del Proyecto Integrado](#evaluación-del-proyecto-integrado)
+La Formación Profesional es un una formación que va dedicada más al mundo laboral, y quizás hasta el momento ha habido una brecha entre el mundo de la formación y el mundo laboral que consiste en la rapidez del avance tecnológico y quizás el mundo de la formación no va al mismo ritmo de avance. 
+Las Aulas Ateca vienen como un intento de ocupar esta brecha. Una forma de modernizar la formación, y también introducir una serie de valores y características que se necisitan a la hora de incorporarse al mercado laboral.
+
+La creación de aulas de tecnología aplicada, denominadas como “aula Ateca” en Formación Profesional es una de las actuaciones de carácter estratégico para la modernización del sistema de FP actual, con la incorporación de la digitalización, la innovación y el emprendimiento, a las que se asigna un conjunto de recursos que se distribuyen para la formación, el crecimiento económico y social, y la empleabilidad.
+
+Las aulas Ateca son espacios destinados al alumnado de Formación Profesional en los que se pondrán en práctica las acciones encaminadas al desarrollo de las redes de aulas, desarrollo del aprendizaje activo y colaborativo, desarrollo de los retos compartidos, desarrollo de la sostenibilidad en el aula, desarrollo de los sistemas de reunión con la VR (realidad virtual), y el desarrollo de la conectividad entre equipos.
 
 ## Instrucciones para el desarrollo del Módulo Proyecto Integrado
 
