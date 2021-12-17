@@ -1,4 +1,4 @@
-# Módulo Proyecto Integrado del IES Gran Capitán
+Proyecto Aula Ateca
 
 
 - [Módulo Proyecto Integrado del IES Gran Capitán](#módulo-proyecto-integrado-del-ies-gran-capitán)
