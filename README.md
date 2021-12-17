@@ -1,7 +1,7 @@
 # Proyecto Aula Ateca 
 ## Proyecto final C.F.G.S Administración Sistemas Informáticos en Red
 
-### Introducción
+### Introducción.
 
 La Formación Profesional es un una formación que va dedicada más al mundo laboral, y quizás hasta el momento ha habido una brecha entre el mundo de la formación y el mundo laboral que consiste en la rapidez del avance tecnológico y quizás el mundo de la formación no va al mismo ritmo de avance. 
 Las Aulas Ateca vienen como un intento de ocupar esta brecha. Una forma de modernizar la formación, y también introducir una serie de valores y características que se necisitan a la hora de incorporarse al mercado laboral.
@@ -10,7 +10,11 @@ La creación de aulas de tecnología aplicada, denominadas como “aula Ateca”
 
 Las aulas Ateca son espacios destinados al alumnado de Formación Profesional en los que se pondrán en práctica las acciones encaminadas al desarrollo de las redes de aulas, desarrollo del aprendizaje activo y colaborativo, desarrollo de los retos compartidos, desarrollo de la sostenibilidad en el aula, desarrollo de los sistemas de reunión con la VR (realidad virtual), y el desarrollo de la conectividad entre equipos.
 
-## Instrucciones para el desarrollo del Módulo Proyecto Integrado
+### Despliegue.
+
+El objetivo del proyecto es montar un Aula Ateca en el instituto IES Gran Capitán. Lo primero que se hizo es reformar el aula en el cual se van a montar los equipos, cambiar su distrubución, cambiar algunas mesas, cambiar un poco el mapa de red y los enchufes para adaptarse al modelo de aula que queremos.
+por otra parte, emepezamos con la preparación de los presupuestos. Los equipos que se han comprado han sido agrupados por Lotes según el tipo de dispositvos que es, o por la categoría a la que pertenece. Los lotes finales han sido los siguientes.
+
 
 ### Obligaciones por parte del alumnado
 Una vez facilitado el enlace de Classroom Github para los Proyectos Integrados que genera este repositorio, el Tutor de Proyecto da por sabida y explicada toda la documentación que aquí aparece. El alumno tiene la obligación de leer por completo toda la documentación.
