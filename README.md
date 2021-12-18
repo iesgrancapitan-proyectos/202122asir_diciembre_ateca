@@ -60,8 +60,12 @@ Una vez seleccionados los equipos hemos ido contactando con preveedores y presen
 
 Para el uso, caracaterísticas y más información sobre los diferentes lotes aquí hay un manual para cada uno.
 
-[Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
-
+[Lote Arduino](https://github.com/iesgrancapitan-proyectos/202122asir_diciembre_ateca/wiki/Lote-Arduino)
+[Lote Audiovisuales](https://github.com/iesgrancapitan-proyectos/202122asir_diciembre_ateca/wiki/Lote-Audiovisuales)
+[Lote Impresoras Especiales](https://github.com/iesgrancapitan-proyectos/202122asir_diciembre_ateca/wiki/Lote-Impresoras-Especiales)
+[Lote Ofimática](https://github.com/iesgrancapitan-proyectos/202122asir_diciembre_ateca/wiki/Lote-Ofim%C3%A1tica)
+[Lote Realidad Virtual](https://github.com/iesgrancapitan-proyectos/202122asir_diciembre_ateca/wiki/Lote-Realidad-Virtual)
+[Guia para el uso de la impresoras 3D](https://github.com/iesgrancapitan-proyectos/202122asir_diciembre_ateca/wiki/Uso-Impresoras-3D)
 
 
 
