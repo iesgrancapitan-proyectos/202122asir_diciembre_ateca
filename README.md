@@ -58,7 +58,9 @@ Una vez seleccionados los equipos hemos ido contactando con preveedores y presen
 
 ### Como usarlo.
 
-El mayor peso del proyecto se lo llevó el lote de las impresoras especiales, debido a su importancia y el protagonismo que están teniendo en el mundo de las tecnologías.
+Para el uso, caracaterísticas y más información sobre los diferentes lotes aquí hay un manual para cada uno.
+
+[Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
 
 
 
