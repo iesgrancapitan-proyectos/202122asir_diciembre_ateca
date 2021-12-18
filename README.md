@@ -68,13 +68,7 @@ Para el uso, caracaterísticas y más información sobre los diferentes lotes aq
 - [Guia para el uso de la impresoras 3D](https://github.com/iesgrancapitan-proyectos/202122asir_diciembre_ateca/wiki/Uso-Impresoras-3D)
 
 
+### Autores
 
-
-| Resultados de Aprendizaje | % Nota |
-| -- | -- | 
-| RA1. Identifica necesidades del sector productivo relacionándolas con proyectos tipo que las puedan satisfacer. _(Justificación de proyecto, estado actual y necesidad/solución a un problema existente)_ | 5% |
-| RA2. Diseña proyectos relacionados con las competencias expresadas en el título, incluyendo y desarrollando las fases que lo componen _(Diseño , Planificación y secuenciación de acciones, determinación de recursos)_ | 20% |
-| RA3. Planifica la puesta en funcionamiento o ejecución del proyecto, determinando el plan de intervención y la documentación asociada. _(Implementación)_ | 65% |
-| RA4. Define los procedimientos para el seguimiento y control en la ejecución del proyecto, justificando la selección de variables e instrumentos empleados. _(Manual de funcionamiento,  mantenimiento/actualizaciones  del producto,  futuras mejoras) _ | 10% |
-
-[:arrow_up:](#módulo-proyecto-integrado-del-ies-gran-capitán)
+Alumno: Buzeid Bazeid Mulay-Ahmed
+Supervisor: José Ramón Albendín
