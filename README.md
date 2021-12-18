@@ -70,5 +70,5 @@ Para el uso, caracaterísticas y más información sobre los diferentes lotes aq
 
 ### Autores
 
-Alumno: Buzeid Bazeid Mulay-Ahmed
-Supervisor: José Ramón Albendín
+- Alumno: Buzeid Bazeid Mulay-Ahmed
+- Supervisor: José Ramón Albendín
